@@ -3,7 +3,7 @@
 <div align="center"> 
 
   <!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=chammi99&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
   <h1>Hi, I'm Lakshani Abeynayake 👋</h1>
 
